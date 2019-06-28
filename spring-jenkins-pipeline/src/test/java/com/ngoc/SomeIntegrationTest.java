@@ -1,7 +1,7 @@
-package com.baeldung;
+package com.ngoc;
 
-import com.baeldung.domain.Student;
-import com.baeldung.repository.StudentRepository;
+import com.ngoc.domain.Student;
+import com.ngoc.repository.StudentRepository;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

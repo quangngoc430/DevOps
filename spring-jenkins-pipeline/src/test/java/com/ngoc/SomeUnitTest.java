@@ -1,4 +1,4 @@
-package com.baeldung;
+package com.ngoc;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
