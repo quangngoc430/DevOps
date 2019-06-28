@@ -22,5 +22,3 @@ Now with default configurations it will be available at: [http://localhost:8080]
 Enjoy it :)
 
 ### Relevant articles
-
-- [Intro to Jenkins 2 and the Power of Pipelines](http://www.baeldung.com/jenkins-pipelines)
