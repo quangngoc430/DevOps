@@ -6,7 +6,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.annotation.DirtiesContext;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.baeldung.SpringJenkinsPipelineApplication;
+import com.ngoc.SpringJenkinsPipelineApplication;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = SpringJenkinsPipelineApplication.class)
